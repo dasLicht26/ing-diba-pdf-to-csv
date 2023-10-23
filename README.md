@@ -1,8 +1,8 @@
-# ING_DiBa PDF Kontoauszug Parser to CSV
+# ING_DiBa PDF Kontoauszug zu CSV
 
 ## Überblick
 
-Dieses Python-Skript dient zum Einlesen von Kontoauszügen eines ING_DiBa Girokontos im PDF-Format. 
+Dieses Python-Skript dient zum Einlesen von mehreren Kontoauszügen eines ING_DiBa Girokontos im PDF-Format. 
 Es extrahiert die relevanten Informationen wie Datum, Betrag und Verwendungszweck und exportiert diese in eine CSV-Datei.
 
 ## Voraussetzungen
