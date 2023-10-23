@@ -1,4 +1,4 @@
-# ING_DiBa Kontoauszug Parser
+# ING_DiBa PDF Kontoauszug Parser to CSV
 
 ## Überblick
 
